@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:1:1-36:12
+	package
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\honey\.android\build-cache\b04cef7bb078386c143b84e747ce6171591f99f0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\honey\.android\build-cache\1dcde5200190861450e73ad9646ea8f3e9d49403\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\honey\.android\build-cache\39fcdfe34e8ed062302a0907c50d0b6f366b468f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\honey\.android\build-cache\6856144e7c8452f88a0bda0b714c1cedebaf0fa3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\honey\.android\build-cache\41ac6143c124e5f26b172569a118cce5896ad93d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\honey\.android\build-cache\28111cfce232ba9c295b93fe3a08c40c58b32854\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\honey\.android\build-cache\2ff64b4f6a725aadc366cc8611389d7ae52b6783\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\honey\.android\build-cache\749a5a3ed6e3407585950e25690bdac2019ff789\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\honey\.android\build-cache\0688e0a52a1299d4f11a68a68b424b1beab4953b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\honey\.android\build-cache\b04cef7bb078386c143b84e747ce6171591f99f0\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:12:5-34:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\honey\.android\build-cache\b04cef7bb078386c143b84e747ce6171591f99f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\honey\.android\build-cache\1dcde5200190861450e73ad9646ea8f3e9d49403\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\honey\.android\build-cache\39fcdfe34e8ed062302a0907c50d0b6f366b468f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\honey\.android\build-cache\6856144e7c8452f88a0bda0b714c1cedebaf0fa3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\honey\.android\build-cache\41ac6143c124e5f26b172569a118cce5896ad93d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\honey\.android\build-cache\28111cfce232ba9c295b93fe3a08c40c58b32854\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\honey\.android\build-cache\2ff64b4f6a725aadc366cc8611389d7ae52b6783\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\honey\.android\build-cache\749a5a3ed6e3407585950e25690bdac2019ff789\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\honey\.android\build-cache\0688e0a52a1299d4f11a68a68b424b1beab4953b\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:16:9-40
+activity#com.download.activity.MainActivity
+ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:19:9-27:20
+	android:launchMode
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:20:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:25:27-74
+service#com.download.servers.DownloadService
+ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:30:3-32:13
+	android:name
+		ADDED from C:\Users\honey\Desktop\8.26\Live_Source\DownLoadFile\src\main\AndroidManifest.xml:30:12-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\honey\.android\build-cache\b04cef7bb078386c143b84e747ce6171591f99f0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\honey\.android\build-cache\1dcde5200190861450e73ad9646ea8f3e9d49403\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\honey\.android\build-cache\39fcdfe34e8ed062302a0907c50d0b6f366b468f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\honey\.android\build-cache\6856144e7c8452f88a0bda0b714c1cedebaf0fa3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\honey\.android\build-cache\41ac6143c124e5f26b172569a118cce5896ad93d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\honey\.android\build-cache\28111cfce232ba9c295b93fe3a08c40c58b32854\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\honey\.android\build-cache\2ff64b4f6a725aadc366cc8611389d7ae52b6783\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\honey\.android\build-cache\749a5a3ed6e3407585950e25690bdac2019ff789\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\honey\.android\build-cache\0688e0a52a1299d4f11a68a68b424b1beab4953b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\honey\.android\build-cache\b04cef7bb078386c143b84e747ce6171591f99f0\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\honey\.android\build-cache\b04cef7bb078386c143b84e747ce6171591f99f0\output\AndroidManifest.xml:26:9-47

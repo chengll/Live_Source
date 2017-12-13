@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.cctbn.toutiao"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.1.8"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:25.0.0'
+    compile files('libs/eventbus.jar')
+    compile files('libs/fastjson1.1.42.jar')
+    compile files('libs/afinal_0.5_bin.jar')
+    compile files('libs/andbase.jar')
+    compile files('libs/glide-3.6.1.jar')
+    compile 'com.umeng.analytics:analytics:latest.integration'
+}
+
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}

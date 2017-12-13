@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo1</string>
+
+    <string name="str_adapter_desc">适配器：万能适配器，适用于listview</string>
+    <string name="str_custom_view_desc">自定义view：呱呱卡</string>
+
+</resources>

@@ -1,0 +1,292 @@
+[
+    {
+        "outputFile": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2127,
+                    "endColumn": 63,
+                    "endOffset": 2186
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2127,
+                        "endColumn": 63,
+                        "endOffset": 2186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2191,
+                    "endColumn": 63,
+                    "endOffset": 2250
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2191,
+                        "endColumn": 63,
+                        "endOffset": 2250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2255,
+                    "endColumn": 54,
+                    "endOffset": 2305
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2255,
+                        "endColumn": 54,
+                        "endOffset": 2305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2310,
+                    "endColumn": 56,
+                    "endOffset": 2362
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2310,
+                        "endColumn": 56,
+                        "endOffset": 2362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2367,
+                    "endColumn": 54,
+                    "endOffset": 2417
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2367,
+                        "endColumn": 54,
+                        "endOffset": 2417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2422,
+                    "endColumn": 37,
+                    "endOffset": 2455
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2422,
+                        "endColumn": 37,
+                        "endOffset": 2455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2460,
+                    "endColumn": 39,
+                    "endOffset": 2495
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2460,
+                        "endColumn": 39,
+                        "endOffset": 2495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2500,
+                    "endColumn": 33,
+                    "endOffset": 2529
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2500,
+                        "endColumn": 33,
+                        "endOffset": 2529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2534,
+                    "endColumn": 36,
+                    "endOffset": 2566
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2534,
+                        "endColumn": 36,
+                        "endOffset": 2566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2571,
+                    "endColumn": 101,
+                    "endOffset": 2668
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2571,
+                        "endColumn": 101,
+                        "endOffset": 2668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2673,
+                    "endColumn": 113,
+                    "endOffset": 2782
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2673,
+                        "endColumn": 113,
+                        "endOffset": 2782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2787,
+                    "endColumn": 107,
+                    "endOffset": 2890
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2787,
+                        "endColumn": 107,
+                        "endOffset": 2890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2895,
+                    "endColumn": 71,
+                    "endOffset": 2962
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2895,
+                        "endColumn": 71,
+                        "endOffset": 2962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2967,
+                    "endColumn": 69,
+                    "endOffset": 3032
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2967,
+                        "endColumn": 69,
+                        "endOffset": 3032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3037,
+                    "endColumn": 77,
+                    "endOffset": 3110
+                },
+                "from": {
+                    "file": "C:\\Users\\honey\\Desktop\\8.26\\Live_Source\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 3037,
+                        "endColumn": 77,
+                        "endOffset": 3110
+                    }
+                }
+            }
+        ]
+    }
+]

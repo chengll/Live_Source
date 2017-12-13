@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <com.cctbn.toutiao.widget.CustomGallery
+            android:id="@+id/lunbo_Viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="150dp" >
+        </com.cctbn.toutiao.widget.CustomGallery>
+
+        <TextView
+            android:id="@+id/lunbo_title"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignBottom="@+id/lunbo_Viewpager"
+            android:background="#55000000"
+            android:ellipsize="marquee"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:textColor="#ffffff" />
+    </RelativeLayout>
+
+</LinearLayout>
